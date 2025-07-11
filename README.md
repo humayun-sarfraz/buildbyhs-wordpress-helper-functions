@@ -1,4 +1,4 @@
-## BuildByHS Helper Functions Repository
+## BuildByHS WordPress Helper Functions
 
 This repository provides a collection of self-contained PHP helper functions designed to streamline common tasks in WordPress theme and plugin development. Each helper is maintained in its own file for easy inclusion, enabling you to pick and choose only the utilities you need.
 
